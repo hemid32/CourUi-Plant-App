@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutterapp/constants.dart';
 import 'package:flutterapp/screens/home/componants/titleWithCostomUnderLinse.dart';
 
-class titleWithButtonMore extends StatelessWidget {
-  const titleWithButtonMore({
+class TitleWithButtonMore extends StatelessWidget {
+  const TitleWithButtonMore({
     Key key,
     this.title ,
     this.onPress  ,
